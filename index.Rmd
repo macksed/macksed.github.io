@@ -1,0 +1,10 @@
+---
+title: "Arjun Yenamandra"
+output:
+  html_document:
+    theme: flatly
+    self_contained: true
+---
+Hi, I am a senior at UT studying SDS, and I am planning to work in finance, whether as an investor or an entrepreneur. I am interested in many different kinds of music. I grew up as a producer, and I have loved making music since I was a kid. Currently, I listen to a lot of classical, trance, rap, and rock music. I also enjoy traveling and have taken more than ten trips in the last two years. My favorite city that I have visited is either Kyoto, Japan, or Borre, Denmark.
+
+
