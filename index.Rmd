@@ -10,7 +10,7 @@ Hi, I am a senior at UT studying SDS, and I am planning to work in finance, whet
 
 You can view my github profile here [GitHub profile](https://github.com/macksed).
 
-![An original image](profile-photo.jpg){width=400px}
+![An original image (some art I made)](profile-photo.png){width=400px}
 
 
 ## Some Movies I Watched This Year
@@ -23,5 +23,11 @@ You can view my github profile here [GitHub profile](https://github.com/macksed)
 - *Excalibur*
 - *Chinatown*
 - *Apocalypto*
+
+---
+
+```{r built-time, echo=FALSE}
+cat("This website was built on", format(Sys.time(), "%Y-%m-%d at %H:%M:%S %Z"))
+```
 
 
